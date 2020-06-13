@@ -58,6 +58,7 @@
   line-height: 25px;
   font-weight: normal;
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -276,7 +277,7 @@
   right: -210px;
   height: 877px;
   width: 877px;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .footer {
