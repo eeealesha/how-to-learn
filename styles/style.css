@@ -185,7 +185,7 @@
   font-weight: normal;
 }
 
-.feinman {
+.feynman {
   padding-top: 100px;
   display: flex;
   flex-direction: column;
@@ -195,7 +195,7 @@
   background-color: #f2f2f2;
 }
 
-.feinman__img {
+.feynman__img {
   height: 637px;
   width: 867px;
   position: absolute;
@@ -203,7 +203,7 @@
   left: 0;
 }
 
-.feinman__title {
+.feynman__title {
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -223,7 +223,7 @@
   font-weight: normal;
 }
 
-.feinman__link {
+.feynman__link {
   position: absolute;
   top: 50%;
   bottom: 50%;
