@@ -1,7 +1,5 @@
-.digits {
-    padding-bottom: 100px;
-    padding-top: 100px;
+.cards__item {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+}
