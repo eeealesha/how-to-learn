@@ -1,6 +1,5 @@
 .video__iframes {
     display: flex;
-    justify-content: space-between;
     overflow: visible;
-    width: 1050px;
+    height: 316px;
 }

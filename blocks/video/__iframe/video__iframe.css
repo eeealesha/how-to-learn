@@ -2,7 +2,9 @@
     height: 316px;
     width: 519px;
     padding-top: 50px;
-    box-sizing: border-box;
-    overflow: visible;
-    z-index: 1;
+    border: 0px;
+}
+
+.video__iframe:last-of-type {
+    margin-left: 20px;
 }
