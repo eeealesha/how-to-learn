@@ -24,8 +24,6 @@
 
 @import url("./../blocks/footer/footer.css");
 
-@import url("./../blocks/link/link.css");
-
 @import url("./../blocks/rotation/rotation.css");
 
 @import url("./../blocks/techniques/techniques.css");
@@ -38,6 +36,4 @@
 
 @import url("./../blocks/khan/khan.css");
 
-* {
-  outline: red 1px solid;
-}
+@import url("./../blocks/resources/resources.css");
